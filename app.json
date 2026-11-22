@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "exercicio-teste-unitarios",
-    "slug": "exercicio-teste-unitarios",
+    "slug": "samuelcicd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "y",
+      "bundleIdentifier": "com.samuelbelarmino.samuelcicd",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -25,15 +25,16 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.samuelbelarmino.exerciciotesteunitarios"
+      "package": "com.samuelbelarmino.samuelcicd"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "dc57ce97-3cfa-4dae-bc43-891d1ea78266"
+        "projectId": "8c1d2354-aec4-488f-a306-da194f7e00d4"
       }
-    }
+    },
+    "owner": "samuelbelarminos-team"
   }
 }
